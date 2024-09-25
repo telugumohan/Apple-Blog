@@ -30,11 +30,11 @@ const Store = () => {
             ))}
           </div>
         </div>
-        <div
+        {/* <div
           className={`flex justify-center items-center bg-slate-300 rounded-full absolute -right-[8%] top-[50%] cursor-pointer z-10 max-xl:hidden`}
         >
           <img src={chevronRight} alt="chevon right" width={56} height={56} />
-        </div>
+        </div> */}
       </div>
     </section>
   );
